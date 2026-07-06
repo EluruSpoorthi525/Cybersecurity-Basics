@@ -18,10 +18,10 @@ My goal is to build strong cybersecurity fundamentals and prepare for GRC, SOC, 
 ## 📅 Progress
 
 - [x] Repository Created
-- [ ] CIA Triad
-- [ ] Risk Management
-- [ ] Threats
-- [ ] Security Controls
+- [x] CIA Triad
+- [x] Risk Management
+- [x] Threats
+- [x] Security Controls
 
 ## 👨‍💻 Author
 
